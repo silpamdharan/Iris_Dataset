@@ -1,2 +1,2 @@
 # Iris_Dataset
-KNN Algorithm
+Machine Learning - KNN Algorithm
